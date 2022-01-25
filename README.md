@@ -1,5 +1,5 @@
 # TKG-Labs
- ## Introduction
+## Introduction
 본 과정은 VMWare Tanzu 제품군 에 대한 전반적인 내용과 실습을 위한 가이드 문서입니다.
 
 ## Courses
