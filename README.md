@@ -4,5 +4,5 @@
 
 ## Courses
 1. [vSphere with Tanzu (TKGs)](https://github.com/tanzukorea/TKGs-HOL)
-2. [Tanzu Kubernetes Grid (TKGm)](../TKGm-HOL/)
-2. [Tanzu Observability (TO)](../TO-HOL/)
+2. [Tanzu Kubernetes Grid (TKGm)](https://github.com/tanzukorea/TKGm-HOL)
+2. [Tanzu Observability (TO)](https://github.com/tanzukorea/TO-HOL)
